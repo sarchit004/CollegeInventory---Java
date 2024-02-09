@@ -10,3 +10,5 @@ For executable application JAR file "out>>artifacts>>OOP.jar"
 <br></br>
 ![image](https://github.com/sarchit004/CollegeInventory---Java/assets/111941110/d0c08827-506d-4941-b81b-be3d3f5ad9b6)
 
+
+<![image](https://github.com/sarchit004/CollegeInventory---Java/assets/111941110/e9ca04ba-cd95-4fe1-82fb-c47a7d140c50) width="425"/> <![image](https://github.com/sarchit004/CollegeInventory---Java/assets/111941110/d0c08827-506d-4941-b81b-be3d3f5ad9b6) width="425"/> 
